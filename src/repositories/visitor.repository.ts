@@ -1,5 +1,5 @@
 import { connection } from '../db/db';
-import {NextFunction} from "express";
+import {NextFunction} from 'express';
 
 export class VisitorRepository {
 

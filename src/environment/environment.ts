@@ -1,12 +1,12 @@
  export const environment = {
      db:{
          host: [
-             "10.0.0.51",
-             "10.0.0.51",
-             "10.0.0.51"
+             "localhost",
+             "localhost",
+             "localhost"
          ],
-         user: "samo",
-         password: "vili123",
+         user: "test",
+         password: "test123",
          port: 3306,
          database: "visitors"
      },
