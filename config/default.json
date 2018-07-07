@@ -1,0 +1,25 @@
+{
+  "database": {
+    "mysql":{
+      "host": [
+        "10.0.0.51",
+        "10.0.0.51",
+        "10.0.0.51"
+      ],
+      "user": "samo",
+      "password": "vili123",
+      "port": 3306,
+      "databse": "visitors"
+    },
+    "mongoDB": {
+      "MONGODB_HOST": "10.0.0.44",
+      "MONGODB_PORT": 27017,
+      "MONGODB_USERNAME": "",
+      "MONGODB_PASSWORD": "",
+      "MONGODB_DATABASE": "SLO"
+    }
+  },
+
+  "userAPIURL": "http://172.20.0.102"
+
+}
